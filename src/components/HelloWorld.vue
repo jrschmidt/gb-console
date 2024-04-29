@@ -19,6 +19,7 @@ h1 {
   font-size: 2.6rem;
   position: relative;
   top: -10px;
+  bottom: 20px;
 }
 
 h3 {

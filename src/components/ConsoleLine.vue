@@ -14,8 +14,7 @@ defineProps<{
 <style scoped>
 h4 {
   font-weight: 500;
-  font-size: 1.2rem;
+  font-size: 1.0rem;
   position: relative;
-  top: -10px;
 }
 </style>
